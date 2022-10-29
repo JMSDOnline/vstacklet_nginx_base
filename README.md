@@ -1,2 +1,2 @@
 # vstacklet_nginx_base
-Nginx base templates for the VStacklet project
+NGinx base templates for the [vStacklet](https://github.com/JMSDOnline/vstacklet) project.
